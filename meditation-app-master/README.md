@@ -5,4 +5,4 @@ This is guided Tutorial project. Implemented and manipulated video and audio usi
 
 Intersting and fun javascript project for Begineers to practice CSS and Vanilla JS.
 
-View Demo: 
+View Demo: https://yogikapp.netlify.app
